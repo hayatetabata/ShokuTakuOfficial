@@ -79,3 +79,6 @@ dist
 
 # IDE
 .idea
+
+# Firebase file
+.firebase/hosting.*.cache
