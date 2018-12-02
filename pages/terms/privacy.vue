@@ -65,5 +65,5 @@
         | 当社の個人情報の取扱に関するお問い合せは下記までご連絡ください。
     b-row
       p
-        | ShokuTakuDevTeam Mail:support@shoku-taku.com
+        | ShokuTakuDevTeam Mail:shokutaku.dev.team@gmail.com
 </template>
