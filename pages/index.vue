@@ -25,7 +25,7 @@
             div(class="store-link")
               a(href="#")
                 img(src="/img/app_store_badge.svg")
-              a(href="#")
+              a(href="https://play.google.com/store/apps/details?id=com.NumberBlockBreaker.ShokuTaku")
                 img(src="/img/google-play-badge.png")
 </template>
 
